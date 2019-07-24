@@ -1,0 +1,22 @@
+{
+  "name": "docz-sandbox-reakit",
+  "version": "1.0.0",
+  "description": "",
+  "license": "UNLICENSED",
+  "main": "index.mdx",
+  "scripts": {
+    "start": "PORT=8080 docz dev -p 8080"
+  },
+  "dependencies": {
+    "docz": "^1.2.0",
+    "docz-theme-default": "^1.2.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "reakit": "^1.0.0-beta.4",
+    "styled-components": "5.0.0-beta.8"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
